@@ -1,6 +1,6 @@
 window.Kattalog = {
   config: {
-    apiBaseUrl: "http://127.0.0.1:8000/api/centers/",
+    apiBaseUrl: "https://kattalog-production.up.railway.app/api/centers/",
     gradients: [
       "linear-gradient(135deg, #fde8d5, #f5cdb0)",
       "linear-gradient(135deg, #d5f5e3, #b0e8c8)",
