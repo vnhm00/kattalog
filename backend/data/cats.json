@@ -1,0 +1,597 @@
+[
+  {
+    "id": 1,
+    "center_id": 1,
+    "name": "Pusi",
+    "slug": "pusi-1",
+    "source_url": "https://www.tiliv.no/katter/pusi",
+    "estimated_birth_date": "2015-04-01",
+    "sex": "female",
+    "trait": "Independent Senior",
+    "description": "Pusi is a talkative older lady who enjoys affection entirely on her own terms — she'll lounge beside you on the sofa or in bed and loves company when she decides the time is right. She currently lives indoors but would love to return to outdoor life in her forever home. Pusi cannot coexist with other cats or dogs, as they cause her stress; she needs to be the sole pet. Her compatibility with children is uncertain, so a calm adult household suits her best. She is ready to move immediately.",
+    "image_urls": [
+      "https://images.squarespace-cdn.com/content/v1/653264907f96e167c1731f38/62ba3c1a-1d5e-4a9d-a9a1-b76d5508d0ed/tempImagegZDVsj.jpg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 2,
+    "center_id": 1,
+    "name": "Mørke",
+    "slug": "morke-2",
+    "source_url": "https://www.tiliv.no/katter/morke-og-midnatt",
+    "estimated_birth_date": "2025-08-01",
+    "sex": "male",
+    "trait": "Full Speed Ahead",
+    "description": "Mørke is all energy and charm — he's yet to meet anyone who wasn't won over by him immediately. Social, playful, and highly active indoors, he has recently started seeking cuddles from his humans, though he's polite enough not to overstay his welcome on your lap. He loves treats and a good game, and appreciates having Midnatt around for playtime when his humans are busy. Must be adopted together with Midnatt.",
+    "image_urls": [
+      "https://images.squarespace-cdn.com/content/v1/653264907f96e167c1731f38/76e112f8-19ea-4848-aaaf-1ef85219da4b/1000002641.jpg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 3,
+    "center_id": 1,
+    "name": "Midnatt",
+    "slug": "midnatt-3",
+    "source_url": "https://www.tiliv.no/katter/morke-og-midnatt",
+    "estimated_birth_date": "2025-06-01",
+    "sex": "female",
+    "trait": "Calm Companion",
+    "description": "Midnatt is the shyer of the two — she dislikes being held but warms up beautifully during gentle interaction in her favourite spots. She transforms around the foods she loves, and her true personality shines through play with Mørke. She accepts vet visits and carriers without protest. A gentle, soft-natured cat who needs patience and the security of her bonded companion. Must be adopted together with Mørke.",
+    "image_urls": [
+      "https://images.squarespace-cdn.com/content/v1/653264907f96e167c1731f38/f6431ea5-50f7-4c77-a140-5ad8ffd1e2d5/611317841_10162207236241417_5361096069969028379_n.jpg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 4,
+    "center_id": 1,
+    "name": "Wictor",
+    "slug": "wictor-4",
+    "source_url": "https://www.tiliv.no/katter/wictor",
+    "estimated_birth_date": "2025-05-01",
+    "sex": "male",
+    "trait": "Gentle Explorer",
+    "description": "Wictor is a curious, playful kitten with a genuinely mild and kind nature. He just needs a little more confidence to fully blossom — away from his siblings he's expected to flourish into a wonderful companion. When cuddle time is agreed upon, his purring starts instantly. He loves exploring and has a warm heart ready to bond deeply with his own family.",
+    "image_urls": [
+      "https://images.squarespace-cdn.com/content/v1/653264907f96e167c1731f38/be5371f2-4278-42bc-9aba-130addeed769/1000021408.jpg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 5,
+    "center_id": 1,
+    "name": "Aina",
+    "slug": "aina-5",
+    "source_url": "https://www.tiliv.no/katter/aina",
+    "estimated_birth_date": "2024-04-01",
+    "sex": "female",
+    "trait": "Bold Cuddle Cat",
+    "description": "Aina has blossomed into a real cuddle cat in foster care — she just needed to feel safe first. She is independent yet affectionate, and her newest favourite activity is being brushed: she purrs loudly and rolls around with joy. She is food-motivated and will talk at you insistently at mealtimes. She likes having a retreat space of her own and prefers a calm home. She can share with other adult cats but may be a little bossy. Does not like being picked up or held. Best suited to a home with older children only, and is happy as an indoor cat.",
+    "image_urls": [
+      "https://images.squarespace-cdn.com/content/v1/653264907f96e167c1731f38/21e155d0-1df9-4ce9-ad1c-f9470ad5cf71/1000021179.jpg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 6,
+    "center_id": 1,
+    "name": "Åsa",
+    "slug": "asa-6",
+    "source_url": "https://www.tiliv.no/katter/sa",
+    "estimated_birth_date": "2024-04-01",
+    "sex": "female",
+    "trait": "Energetic & Curious",
+    "description": "Åsa is high and low, always at full speed — she loves energising other cats into play and is genuinely curious about outdoor life. She felt settled in foster care quickly and actively seeks affection, pressing her face into your hand and sometimes leaping up toward you to show love. On the kitchen she'll weave around your feet and chatter hopefully for treats. She enjoys cosy nap spots just as much as playtime. Would like outdoor access and a playful feline companion.",
+    "image_urls": [
+      "https://images.squarespace-cdn.com/content/v1/653264907f96e167c1731f38/21df6796-bef1-439b-9eb6-01320b81f57a/IMG_4507.jpeg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 7,
+    "center_id": 1,
+    "name": "Åste",
+    "slug": "aste-7",
+    "source_url": "https://www.tiliv.no/katter/ste",
+    "estimated_birth_date": "2024-04-01",
+    "sex": "female",
+    "trait": "Playful Spirit",
+    "description": "Åste is a playful handful who was initially shy but has blossomed into an affectionate companion with patience. She loves balls, feather wands, and independent play — even chatting to herself. She's food-motivated and will take treats from your hand. She's curious about everything, including the robot vacuum. She prefers living with another cat and would love outdoor access. Not suitable for homes with children. Patient adopters will be rewarded with plenty of purrs and cuddles.",
+    "image_urls": [
+      "https://images.squarespace-cdn.com/content/v1/653264907f96e167c1731f38/df9d6002-43b9-41cc-927f-1dd7c5edc0f9/IMG_5391.jpeg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 8,
+    "center_id": 1,
+    "name": "Batman",
+    "slug": "batman-8",
+    "source_url": "https://www.tiliv.no/katter/batmanbruno",
+    "estimated_birth_date": "2018-04-01",
+    "sex": "male",
+    "trait": "Street-Smart Gentleman",
+    "description": "Batman is a large, gentle soul with a street cat past. He needs time to build trust but is genuinely curious and kind — he loves food and is slowly becoming more affectionate. He's not yet a lap cat but is clearly considering it. He requires a calm home without young children, and patient owners who will let him come to them on his own terms. Can be adopted with Bruno or separately in the right home.",
+    "image_urls": [
+      "https://images.squarespace-cdn.com/content/v1/653264907f96e167c1731f38/549b3f6b-790f-4406-8f85-f600337a022d/8428ec04-5d38-469a-8ce8-dc0170acb86d.jpg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 9,
+    "center_id": 1,
+    "name": "Bruno",
+    "slug": "bruno-9",
+    "source_url": "https://www.tiliv.no/katter/batmanbruno",
+    "estimated_birth_date": "2023-04-01",
+    "sex": "male",
+    "trait": "Social Butterfly",
+    "description": "Bruno is an absolute sweetheart — he loves being held, greets everyone warmly each morning from his armchair, and insists on being involved in whatever you're doing. Despite small ear notches from his past on the streets, he is pure trust and affection. He can get a little jealous if Batman gets more attention, but handles it graciously. Best in a home with older children who can give him dedicated time. Can be adopted with Batman or separately.",
+    "image_urls": [
+      "https://images.squarespace-cdn.com/content/v1/653264907f96e167c1731f38/c0e64091-1cb1-4b38-8632-bed0137efaa4/435980e2-2806-455d-a7d0-24032afb05ee.jpg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 10,
+    "center_id": 1,
+    "name": "Sara",
+    "slug": "sara-10",
+    "source_url": "https://www.tiliv.no/katter/sara-og-dotty",
+    "estimated_birth_date": "2024-04-01",
+    "sex": "female",
+    "trait": "Shy but Blooming",
+    "description": "Sara arrived as an extremely fearful cat but has made remarkable progress — largely thanks to Dotty's steadying presence. She now cuddles on the sofa with people she trusts and is beginning to approach independently. She can still be startled by sudden movements and will retreat to her safe space, so she needs a calm, patient household without young children. Thrives best with Dotty nearby. Must be adopted together with Dotty.",
+    "image_urls": [
+      "https://images.squarespace-cdn.com/content/v1/653264907f96e167c1731f38/ab6c2209-e807-4135-936d-ee587a265b10/ad4d04fa-c315-4e72-ae99-f43ea90fc823.jfif"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 11,
+    "center_id": 1,
+    "name": "Dotty",
+    "slug": "dotty-11",
+    "source_url": "https://www.tiliv.no/katter/sara-og-dotty",
+    "estimated_birth_date": "2024-04-01",
+    "sex": "female",
+    "trait": "Fearless & Fluffy",
+    "description": "Dotty has transformed into a fearless, energetic explorer — she chases flies, investigates every corner, and bounces around with enthusiasm once she feels at home. She needs a little time to warm up to new people, but then becomes wonderfully affectionate. Her long fur requires regular brushing, which she genuinely enjoys. Would love outdoor access. Calm, patient adopters without small children are ideal. Must be adopted together with Sara.",
+    "image_urls": [
+      "https://images.squarespace-cdn.com/content/v1/653264907f96e167c1731f38/1756550b-0f07-4942-883b-812d32bb090d/326b6e6c-7db2-4198-9b63-39be6fcc787a.jfif"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 12,
+    "center_id": 1,
+    "name": "Levis",
+    "slug": "levis-12",
+    "source_url": "https://www.tiliv.no/katter/levis",
+    "estimated_birth_date": "2022-04-01",
+    "sex": "male",
+    "trait": "Clever Bengal Mix",
+    "description": "Levis is a talkative Bengal mix who wants to do everything with you — follow you around the house, sit in your lap in the evenings, and have full conversations at all hours. Highly intelligent, he solves puzzles, opens doors and windows, and will find any forbidden item you try to hide. He needs significant mental stimulation and environmental enrichment; without it he can become frustrated. Previous Bengal experience is a plus. Cannot live with children, other cats, or dogs — he wants to be your one and only.",
+    "image_urls": [
+      "https://images.squarespace-cdn.com/content/v1/653264907f96e167c1731f38/d4c504ea-eb5b-4350-9212-f2064b15a691/20240310_161413.jpg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 13,
+    "center_id": 1,
+    "name": "Hamira",
+    "slug": "hamira-13",
+    "source_url": "https://www.tiliv.no/katter/hamira",
+    "estimated_birth_date": "2019-04-01",
+    "sex": "female",
+    "trait": "Complex & Loving",
+    "description": "Hamira is a loving lap cat who will sprint toward you, bury her head in your jumper, and purr loudly once she trusts you. With strangers she is cautious — something in her past has made her wary, and those who don't read her signals may get a swat. She has come a long way in foster care and now greets everyone, but still needs patient, experienced cat owners who understand her needs. Not suitable for children. Can live with other cats given a slow, careful introduction. Has plenty of energy and would love outdoor access eventually.",
+    "image_urls": [
+      "https://images.squarespace-cdn.com/content/v1/653264907f96e167c1731f38/4bbe8037-5bb2-4508-8505-ef1524c474c6/IMG_1813.JPG"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 14,
+    "center_id": 2,
+    "name": "Petite",
+    "slug": "petite-14",
+    "source_url": "https://dyreneshus.no/adopsjons-katter/petite/",
+    "estimated_birth_date": "2023-04-01",
+    "sex": "female",
+    "trait": "Shy but Sweet",
+    "description": "Petite is a skittish orange-and-white tabby who takes time to open up, but once she does she is wonderfully affectionate — she stands on her hind legs to cuddle and comes when called, which is rare for a cat. She is food-motivated and purrs easily once comfortable. She is FHV-positive and must remain an indoor-only cat, either alone or with other FHV-positive cats. Vaccinated, spayed, and microchipped.",
+    "image_urls": [
+      "https://dyreneshus.no/wp-content/uploads/2026/02/Petite1.jpg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 15,
+    "center_id": 2,
+    "name": "Anaïs",
+    "slug": "anais-15",
+    "source_url": "https://dyreneshus.no/adopsjons-katter/anais/",
+    "estimated_birth_date": "2023-04-01",
+    "sex": "female",
+    "trait": "Blossoming Explorer",
+    "description": "Anaïs arrived at the shelter as a shy and fearful cat but has grown into a confident, curious girl through patient foster care. She loves to play, follows people around to observe everything, and has a big cuddle heart once she feels safe. She is food-motivated and enjoys a fixed spot on the sofa. Carries FHV-1, which causes mild occasional symptoms but doesn't prevent a happy life. Needs a calm, adult home as the only pet. Vaccinated, spayed, and microchipped.",
+    "image_urls": [
+      "https://dyreneshus.no/wp-content/uploads/2026/02/An-1.jpg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 16,
+    "center_id": 2,
+    "name": "Zelda",
+    "slug": "zelda-16",
+    "source_url": "https://dyreneshus.no/adopsjons-katter/zelda-3/",
+    "estimated_birth_date": "2019-04-01",
+    "sex": "female",
+    "trait": "Gentle & Intelligent",
+    "description": "Zelda is a beautiful, intelligent cat with a long, soft coat and a trusting nature. She loves to follow people around, communicates affection through gentle head bumps, and enjoys watching the world from a window. She is never rough — no biting or scratching — and reveals her cuddly side quickly to patient people. Needs to be the only cat in the home. Vaccinated, neutered, and microchipped.",
+    "image_urls": [
+      "https://dyreneshus.no/wp-content/uploads/2025/05/Zelda3.jpg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 17,
+    "center_id": 3,
+    "name": "Konsta",
+    "slug": "konsta-17",
+    "source_url": "https://dooa.no/2026/03/26/konsta/",
+    "estimated_birth_date": "2025-06-01",
+    "sex": "male",
+    "trait": "Curious & Active",
+    "description": "Konsta is a curious, active, and affectionate boy who loves watching birds from the window and has bursts of energetic play throughout the day. He is cuddly on his own terms and enjoys grooming and belly rubs. Food-motivated and toy-obsessed — especially balls and wand toys. He was surrendered when his owner could no longer care for him and has blossomed in foster care. Best with older children or adults, would like safe outdoor access. Neutered, microchipped, and vaccinated.",
+    "image_urls": [
+      "https://dooa.no/wp-content/uploads/2026/03/konsta-kalbakken-1.jpg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 18,
+    "center_id": 3,
+    "name": "Pelle",
+    "slug": "pelle-18",
+    "source_url": "https://dooa.no/2026/03/24/pelle/",
+    "estimated_birth_date": "2021-04-01",
+    "sex": "male",
+    "trait": "Trustworthy & Calm",
+    "description": "Pelle is a really good guy who truly shines when you give him time and focus. Trustworthy and secure, he is sociable and affectionate, responds when called, and is most active mornings and evenings. He tolerates dogs, other cats, and children aged 4+. Not destructive to plants or furniture, and handles vet visits calmly. He needs a calm home with safe outdoor access. Neutered, microchipped, and vaccinated.",
+    "image_urls": [
+      "https://dooa.no/wp-content/uploads/2025/07/pelle-enebakk-1-1-1-scaled.jpg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 19,
+    "center_id": 3,
+    "name": "Shira",
+    "slug": "shira-19",
+    "source_url": "https://dooa.no/2026/03/22/shira/",
+    "estimated_birth_date": "2021-04-01",
+    "sex": "female",
+    "trait": "Dignified & Playful",
+    "description": "Shira is a beautiful, confident girl full of personality. She loves chasing toys around the house and is always gentle with people — never biting or scratching. She is vocal and communicative, greeting visitors with friendly meows and announcing her needs. Affectionate but not a lap cat, she enjoys being petted anywhere, including paws and belly. Needs a home without other cats or small children, and would love safe outdoor access. Spayed, microchipped, and vaccinated.",
+    "image_urls": [
+      "https://dooa.no/wp-content/uploads/2026/03/shira-sofiemyr-1-scaled.jpg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 20,
+    "center_id": 3,
+    "name": "Bobo",
+    "slug": "bobo-20",
+    "source_url": "https://dooa.no/2026/03/18/bobo-og-bambino/",
+    "estimated_birth_date": "2025-10-01",
+    "sex": "male",
+    "trait": "Outgoing Explorer",
+    "description": "Bobo is the more outgoing of this cheerful brother duo — curious, playful, and social, he loves being held and can learn tricks. He and Bambino are inseparable and must be adopted together. Both are energetic kittens who investigate everything and get along well with children and other cats. Must remain indoors until they turn one. Neutered, microchipped, and vaccinated.",
+    "image_urls": [
+      "https://dooa.no/wp-content/uploads/2026/03/bobo-og-bambino-bygdoy-1-scaled.jpg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 21,
+    "center_id": 3,
+    "name": "Bambino",
+    "slug": "bambino-21",
+    "source_url": "https://dooa.no/2026/03/18/bobo-og-bambino/",
+    "estimated_birth_date": "2025-10-01",
+    "sex": "male",
+    "trait": "Curious & Affectionate",
+    "description": "Bambino is slightly more reserved than his brother Bobo, but equally playful and affectionate with a beautiful semi-long coat. He thrives with Bobo's company and the two are a cheerful, energetic pair who explore everything together. Both love being held and can learn tricks. Must be adopted together with Bobo. Neutered, microchipped, and vaccinated.",
+    "image_urls": [
+      "https://dooa.no/wp-content/uploads/2026/03/bobo-og-bambino-bygdoy-1-scaled.jpg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 22,
+    "center_id": 4,
+    "name": "Sokrates",
+    "slug": "sokrates-22",
+    "source_url": "https://trondelagdyrevern.no/dyr-til-adopsjon/",
+    "estimated_birth_date": "2025-07-01",
+    "sex": "female",
+    "trait": "Cautious & Curious",
+    "description": "Sokrates is a young female kitten who is a little cautious by nature but gets braver and more playful the more comfortable she feels. She has a gentle, exploratory spirit and will blossom beautifully in the right home. She requires a home that already has another calm, friendly cat for companionship. Vaccinated, microchipped, and ready for her forever home.",
+    "image_urls": [
+      "https://trondelagdyrevern.no/wp-content/uploads/2026/01/Adopsjon-Sokrates-fb-port-819x1024.jpg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 23,
+    "center_id": 4,
+    "name": "Indy",
+    "slug": "indy-23",
+    "source_url": "https://trondelagdyrevern.no/dyr-til-adopsjon/",
+    "estimated_birth_date": "2023-04-01",
+    "sex": "male",
+    "trait": "Super Social",
+    "description": "Indy is an extremely social and kind boy — friendliness is simply his nature. He gets along wonderfully with other cats, uses the cat door with confidence, and loves being around people. An easy, joyful companion who asks for little and gives a lot. Vaccinated, neutered, and microchipped.",
+    "image_urls": [
+      "https://trondelagdyrevern.no/wp-content/uploads/2026/02/Insta-adopsjon-indy-1024x1024.jpg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 24,
+    "center_id": 4,
+    "name": "Lillemann",
+    "slug": "lillemann-24",
+    "source_url": "https://trondelagdyrevern.no/dyr-til-adopsjon/",
+    "estimated_birth_date": "2019-04-01",
+    "sex": "male",
+    "trait": "Mild & Gentle",
+    "description": "Lillemann is a mild, gentle, and kind older cat who needs a quiet home with adults only — no children. He prefers the company of another friendly cat and has a calm, steady personality. He is a picky eater who requires specific foods, so a patient and attentive adopter is important. A peaceful companion for the right calm household. Vaccinated, neutered, and microchipped.",
+    "image_urls": [
+      "https://trondelagdyrevern.no/wp-content/uploads/2026/02/Adopsjon-Lillemann-fb-port-819x1024.jpg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 25,
+    "center_id": 5,
+    "name": "Mie",
+    "slug": "mie-25",
+    "source_url": "https://kattebeskyttelsen.no/mie/",
+    "estimated_birth_date": "2025-04-01",
+    "sex": "female",
+    "trait": "Friendly & Adaptable",
+    "description": "Mie came to Kattebeskyttelsen due to a family health crisis rather than any behavioural issues — she is a well-adjusted, friendly, and alert cat. She responds to people with soft eyes and calm paws, and is compatible with both dogs and other cats. She can live indoors or with safe outdoor access. Adoption fee includes vaccination, microchip, and spaying.",
+    "image_urls": [
+      "https://i0.wp.com/kattebeskyttelsen.no/wp-content/uploads/2026/02/1000006574.jpg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 26,
+    "center_id": 5,
+    "name": "Talia",
+    "slug": "talia-26",
+    "source_url": "https://kattebeskyttelsen.no/talia/",
+    "estimated_birth_date": "2025-04-01",
+    "sex": "female",
+    "trait": "Cautious & Cuddly",
+    "description": "Talia is a cautious young lady who loves cuddles and treats once she feels safe. Initially shy, she quickly opens up during play and is an excellent little hunter. She is affectionate and seeks attention from her carers, with fish as her favourite food. She shows clear boundaries and some food anxiety from her stray past, but has a wonderfully quirky personality. Best in a home without children and with at least one calm, social cat. Indoor only.",
+    "image_urls": [
+      "https://i0.wp.com/kattebeskyttelsen.no/wp-content/uploads/2026/02/f2dc0172-5994-41c5-89a7-3e28462b52a5-edited.jpg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 27,
+    "center_id": 5,
+    "name": "Sultan",
+    "slug": "sultan-27",
+    "source_url": "https://kattebeskyttelsen.no/sultan/",
+    "estimated_birth_date": "2022-04-01",
+    "sex": "male",
+    "trait": "Calm Sofa Companion",
+    "description": "Sultan is a calm, warm, and incredibly cozy cat who appreciates life's small everyday pleasures — lounging on the sofa, following his people peacefully around the house, and giving affectionate looks. He is a very safe and kind boy who loves cuddling and closeness. Sultan is FIV-positive and must be the only cat in the home, but with proper care, nutrition, and regular vet checkups he can live a long and normal life. Indoor only.",
+    "image_urls": [
+      "https://i0.wp.com/kattebeskyttelsen.no/wp-content/uploads/2026/03/1000006690.jpg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 28,
+    "center_id": 5,
+    "name": "Tussi",
+    "slug": "tussi-28",
+    "source_url": "https://kattebeskyttelsen.no/tussi/",
+    "estimated_birth_date": "2020-04-01",
+    "sex": "female",
+    "trait": "Talkative & Charming",
+    "description": "Tussi is a lively, social, and charming cat with plenty of personality. She is talkative and loves communicating with her people throughout the day. Affectionate, clean, and easy to live with, she allows full handling and petting while remaining delightfully independent. She thrives with a feline companion and could even be adopted alongside Mie. Indoor only or with secure outdoor access.",
+    "image_urls": [
+      "https://i0.wp.com/kattebeskyttelsen.no/wp-content/uploads/2026/03/1000006743.jpg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 29,
+    "center_id": 6,
+    "name": "Alma",
+    "slug": "alma-29",
+    "source_url": "https://dyrenes-hjelper.com/vare-katter",
+    "estimated_birth_date": "2025-10-01",
+    "sex": "female",
+    "trait": "Shy & Curious",
+    "description": "Alma is a delicate, cautious young girl who is shy at first but blossoms with patience. She is curious about the world around her and will approach on her own terms once she feels safe. She needs a quiet home where she can adjust at her own pace. Spayed, vaccinated, and microchipped.",
+    "image_urls": [
+      "https://impro.usercontent.one/appid/oneComWsb/domain/dyrenes-hjelper.com/media/dyrenes-hjelper.com/onewebmedia/545091400_1213241367504777_6959864459018511240_n___serialized1.jpg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 30,
+    "center_id": 6,
+    "name": "Alex",
+    "slug": "alex-30",
+    "source_url": "https://dyrenes-hjelper.com/vare-katter",
+    "estimated_birth_date": "2025-12-01",
+    "sex": "male",
+    "trait": "Outdoor-Born Explorer",
+    "description": "Alex is a cautious black-and-white boy born outdoors who is becoming more playful and trusting by the day. He needs a patient owner who will give him the time and space to come out of his shell. Once comfortable, he is a curious and engaging little companion. Neutered, vaccinated, and microchipped.",
+    "image_urls": [
+      "https://impro.usercontent.one/appid/oneComWsb/domain/dyrenes-hjelper.com/media/dyrenes-hjelper.com/onewebmedia/640255076_1354379380057641_6903732903053895956_n___serialized1.jpg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 31,
+    "center_id": 6,
+    "name": "Kristin",
+    "slug": "kristin-31",
+    "source_url": "https://dyrenes-hjelper.com/vare-katter",
+    "estimated_birth_date": "2024-04-01",
+    "sex": "female",
+    "trait": "Playful & Sociable",
+    "description": "Kristin is a friendly, playful, and affectionate cat with a beautiful long coat. Social and easygoing, she settles into new environments with confidence and loves to engage in play. She is spayed, microchipped, and vaccinated — a wonderful all-round companion for most households.",
+    "image_urls": [
+      "https://impro.usercontent.one/appid/oneComWsb/domain/dyrenes-hjelper.com/media/dyrenes-hjelper.com/onewebmedia/649232898_1366132552215657_6345738356688127753_n.jpg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 32,
+    "center_id": 6,
+    "name": "Nusse Noel",
+    "slug": "nusse-noel-32",
+    "source_url": "https://dyrenes-hjelper.com/vare-katter",
+    "estimated_birth_date": "2024-04-01",
+    "sex": "male",
+    "trait": "From Fearful to Loving",
+    "description": "Nusse Noel started out fearful but has transformed into a confident and affectionate cat who gets along well with other cats. He now seeks out company and warmth, and is looking for a quiet home where he can continue to thrive. Neutered, microchipped, and vaccinated.",
+    "image_urls": [
+      "https://impro.usercontent.one/appid/oneComWsb/domain/dyrenes-hjelper.com/media/dyrenes-hjelper.com/onewebmedia/633325939_1344829647679281_6758637265258667803_n___serialized1.jpg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 33,
+    "center_id": 6,
+    "name": "Elli",
+    "slug": "elli-33",
+    "source_url": "https://dyrenes-hjelper.com/vare-katter",
+    "estimated_birth_date": "2021-04-01",
+    "sex": "female",
+    "trait": "Gentle Barn Cat",
+    "description": "Elli was found in a barn and is cautious with people, but she is gentle and responds warmly to treats and patience. She gets along well with other cats and is learning to trust. She needs a quiet, calm home where she can settle at her own pace. Spayed, microchipped, and vaccinated.",
+    "image_urls": [
+      "https://impro.usercontent.one/appid/oneComWsb/domain/dyrenes-hjelper.com/media/dyrenes-hjelper.com/onewebmedia/573321142_1260585799437000_5824867539639857613_n___serialized1.jpg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 34,
+    "center_id": 6,
+    "name": "Fru Lyng",
+    "slug": "fru-lyng-34",
+    "source_url": "https://dyrenes-hjelper.com/vare-katter",
+    "estimated_birth_date": "2024-04-01",
+    "sex": "female",
+    "trait": "Quiet & Kind",
+    "description": "Fru Lyng is a quiet, gentle cat who is kind to everyone and everything. Very cautious by nature, she needs a calm environment where she can observe and adjust at her own pace. Once settled she is a sweet and steady companion. Spayed, microchipped, and vaccinated.",
+    "image_urls": [
+      "https://impro.usercontent.one/appid/oneComWsb/domain/dyrenes-hjelper.com/media/dyrenes-hjelper.com/onewebmedia/649175016_1366130325549213_5698728732715709363_n.jpg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  },
+  {
+    "id": 35,
+    "center_id": 6,
+    "name": "Rumi",
+    "slug": "rumi-35",
+    "source_url": "https://dyrenes-hjelper.com/vare-katter",
+    "estimated_birth_date": "2025-09-01",
+    "sex": "female",
+    "trait": "Playful & Curious",
+    "description": "Rumi is a playful young girl with a beautiful face and trusting eyes. She is not immediately cuddly but loves play and treats, and will become more affectionate over time with the right person. A lively, engaging little cat who will reward patient adopters. Spayed, microchipped, and vaccinated.",
+    "image_urls": [
+      "https://impro.usercontent.one/appid/oneComWsb/domain/dyrenes-hjelper.com/media/dyrenes-hjelper.com/onewebmedia/606398581_1308132781348968_3903233616210577547_n___serialized1.jpg"
+    ],
+    "adoption_status": "available",
+    "inserted_at": "2026-04-02T00:00:00Z",
+    "last_updated_at": "2026-04-02T00:00:00Z"
+  }
+]

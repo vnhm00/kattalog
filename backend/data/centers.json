@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "website_url": "https://www.tiliv.no/katter",
+    "slug": "ti-liv-foreningen-for-hjemlose-katter",
+    "name": "Ti Liv - Foreningen for hjemløse katter",
+    "county": "Oslo",
+    "address": "Elmholt avenue 13, 0275 Oslo",
+    "logo_url": "https://images.squarespace-cdn.com/content/v1/653264907f96e167c1731f38/32c607b2-393b-49c2-832c-53c1351eb40c/Ti%2BLivRUND_hvit%2Bp%C3%A5%2Bsvartpng.png"
+  },
+  {
+    "id": 2,
+    "website_url": "https://dyreneshus.no/katt-kategori/adopsjonsklar/",
+    "slug": "dyrenes-hus",
+    "name": "Dyrenes Hus",
+    "county": "Akershus",
+    "address": "Postboks 37, 1305 Haslum, Bærum, Akershus",
+    "logo_url": "https://dyreneshus.no/wp-content/uploads/2022/05/logo-dyrenes-hus-ny.png"
+  },
+  {
+    "id": 3,
+    "website_url": "https://dooa.no/dyr-til-adopsjon/",
+    "slug": "dyrebeskyttelsen-oslo-og-akershus",
+    "name": "Dyrebeskyttelsen Oslo og Akershus",
+    "county": "Oslo",
+    "address": "Mosseveien 226, 1169 Oslo",
+    "logo_url": "https://dooa.no/wp-content/uploads/2024/08/OsloOgAkershus_DyrebeskyttelsenNorge_Ai_Farge.svg"
+  },
+  {
+    "id": 4,
+    "website_url": "https://trondelagdyrevern.no/dyr-til-adopsjon/",
+    "slug": "trondelag-dyrevern",
+    "name": "Trøndelag Dyrevern",
+    "county": "Trøndelag",
+    "address": "Tuvbakken 5, 7710 Sparbu, Steinkjer, Trøndelag",
+    "logo_url": "https://trondelagdyrevern.no/wp-content/uploads/2023/09/tdvlogo.png"
+  },
+  {
+    "id": 5,
+    "website_url": "https://kattebeskyttelsen.no/adopsjon/",
+    "slug": "kattebeskyttelsen",
+    "name": "Kattebeskyttelsen",
+    "county": "Akershus",
+    "address": "Gamle Kroervei 101, 1433 Ås, Akershus",
+    "logo_url": "https://i0.wp.com/kattebeskyttelsen.no/wp-content/uploads/2024/08/Kattebeskyttelsen7-3607212421-e1727865436222.png?fit=472%2C472&ssl=1"
+  },
+  {
+    "id": 6,
+    "website_url": "https://dyrenes-hjelper.com/vare-katter",
+    "slug": "dyrenes-hjelper",
+    "name": "Dyrenes Hjelper",
+    "county": "Agder",
+    "address": "Frolandsveien 223, 4848 Arendal, Agder",
+    "logo_url": "https://impro.usercontent.one/appid/oneComWsb/domain/dyrenes-hjelper.com/media/dyrenes-hjelper.com/onewebmedia/logo%20dyrenes%20helper%20JPEG.jpg?etag=W%2F%22aa82-157f7177c30%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=211%2B146&quality=85"
+  }
+]
