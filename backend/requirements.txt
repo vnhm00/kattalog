@@ -1,2 +1,5 @@
 Django==6.0.3
 django-cors-headers
+gunicorn
+psycopg[binary]
+dj-database-url
