@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kattalog</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800&family=Space+Mono:wght@400&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" type="image/png" href="resources/cat.png" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="site-header-inner">
+        <div class="masthead-copy">
+          <a href="#" class="logo" aria-label="Kattalog home">
+            <img class="logo-mark" src="resources/cat.png" alt="" />
+            <span class="logo-copy">
+              <span class="logo-text">KATTALOG</span>
+              <span class="logo-subtext">Norway's adoption cats in one place</span>
+            </span>
+          </a>
+          <div class="masthead-update">
+            <span class="logo-update">LATEST DATA UPDATE: APR 6</span>
+          </div>
+        </div>
+        <div class="masthead-meta">
+          <div class="masthead-filter">
+            <label class="masthead-filter-label" for="county-filter">County</label>
+            <div class="masthead-filter-select-wrap">
+              <select class="masthead-filter-select" id="county-filter">
+                <option value="all">All counties</option>
+              </select>
+            </div>
+          </div>
+          <div class="masthead-stats">
+            <div class="masthead-stat-card">
+              <span class="masthead-stat-number" id="center-count">-</span>
+              <span class="masthead-stat-label">Centers</span>
+            </div>
+            <div class="masthead-stat-card">
+              <span class="masthead-stat-number" id="cat-count">-</span>
+              <span class="masthead-stat-label">Cats waiting</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <div class="page active" id="page-centers">
+        <div class="centers-list" id="centers-list"></div>
+      </div>
+    </main>
+
+    <div class="modal-bg" id="modal-bg">
+      <div class="modal" id="modal">
+        <button class="modal-close" id="modal-close" type="button" aria-label="Close">
+          <svg width="10" height="10" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
+            <path d="M18 6 6 18M6 6l12 12" />
+          </svg>
+        </button>
+        <div class="modal-layout">
+          <div class="modal-photo" id="modal-photo"></div>
+          <div class="modal-body">
+            <div class="modal-name-row">
+              <div class="modal-name" id="modal-name"></div>
+              <div class="modal-chips" id="modal-chips"></div>
+            </div>
+            <div class="modal-desc" id="modal-desc"></div>
+            <div class="modal-center-block" id="modal-center-block"></div>
+            <div class="modal-actions" id="modal-actions"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script
+      src="https://code.jquery.com/jquery-3.7.1.min.js"
+      integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+      crossorigin="anonymous"
+    ></script>
+    <script src="main.js"></script>
+    <script src="js/utils.js"></script>
+    <script src="js/mappers.js"></script>
+    <script src="js/render.js"></script>
+    <script src="js/modal.js"></script>
+    <script src="js/api.js"></script>
+    <script src="js/events.js"></script>
+  </body>
+</html>
