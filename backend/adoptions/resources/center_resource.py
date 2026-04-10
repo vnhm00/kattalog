@@ -6,7 +6,7 @@ from adoptions.models import Center
 
 @require_GET
 def centers(request):
-    centers = Center.objects.all()
+    centers = Center.objects.prefetch_related('cats')
     result = []
 
     for center in centers:
